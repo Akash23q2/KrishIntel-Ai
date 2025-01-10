@@ -29,7 +29,9 @@
 ## 📷 **Project Visuals**  
 Here are some visuals showcasing the functionality of KrishIntel AI:  
 ![Disease Detection](src/file_2025-01-10_15.55.27.png)  
+---
 ![Disease Detection](src/file_2025-01-10_15.57.29.png)  
+---
 <div style="display: flex; justify-content: space-around;">
   <img src="src/file_2025-01-10_15.59.03.png" alt="Disease Detection 1" width="45%" />
   <img src="src/WhatsApp%20Image%202025-01-10%20at%2021.29.13_78efd1d3.jpg" alt="Disease Detection 2" width="45%" />
@@ -69,7 +71,7 @@ KrishIntel AI outperforms models like AlexNet and SqueezeNet as documented in [t
 ---
 
 ## 🔗 **Live Demo Video**  
-Check out the live demo of KrishIntel AI on my [LinkedIn post](https://www.linkedin.com/in/thyakash) to see the project in action!  
+Check out the live demo of KrishIntel AI on my [LinkedIn post](https://www.linkedin.com/posts/thyakash_artificialintelligence-agriculture-deeplearning-activity-7283548887762530304-rxv2?utm_source=share&utm_medium=member_desktop) to see the project in action!  
 
 ---
 
