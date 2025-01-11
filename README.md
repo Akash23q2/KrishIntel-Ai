@@ -9,7 +9,7 @@
 
 ## 📊 **Why KrishIntel AI?**  
 - **Exceptional Accuracy:**  
-  KrishIntel AI achieves a remarkable **99% accuracy** on both training and validation datasets. This surpasses the performance of models documented in [this research](https://openagriculturejournal.com/VOLUME/18/ELOCATOR/e18743315305194/FULLTEXT/#:~:text=CNN%20architectures%20such%20as%20AlexNet,were%20used%2C%20AlexNet%20and%20SqueezeNet).  
+  KrishIntel AI achieves a remarkable **99% accuracy** on both training and validation datasets. This surpasses the performance of models documented in [this research](https://openagriculturejournal.com/VOLUME/18/ELOCATOR/e18743315305194/).  
 - **Comprehensive Coverage:**  
   Detects diseases in **38 plant categories**, including major crops like potato, tomato, apple, and corn.  
 - **Intelligent Interaction:**  
@@ -66,7 +66,7 @@ To use the AI-powered features, update the API keys in the `.env` file with your
 ---
 
 ## 🏆 **Achievements**  
-KrishIntel AI outperforms models like AlexNet and SqueezeNet as documented in [this research](https://openagriculturejournal.com/VOLUME/18/ELOCATOR/e18743315305194/FULLTEXT/#:~:text=CNN%20architectures%20such%20as%20AlexNet,were%20used%2C%20AlexNet%20and%20SqueezeNet), setting a new benchmark in crop disease detection with its **99% accuracy**.  
+KrishIntel AI outperforms models like AlexNet and SqueezeNet as documented in [this research](https://openagriculturejournal.com/VOLUME/18/ELOCATOR/e18743315305194/), setting a new benchmark in crop disease detection with its **99% accuracy**.  
 
 ---
 
